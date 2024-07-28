@@ -133,7 +133,7 @@ echo "<script type='text/javascript'>alert('$mensaje');</script>";
         <hr>
         <div class="row justify-content-center mt-3 pb-5">
             <div class="col-md-6">
-                <div class="container mt-5 card p-4">
+                <div class="container mt-5 card p-4 bg-dark-subtle">
                     <h2 class="text-center">Registro de Vuelos</h2>
                     <form action="procesar_vuelo.php" method="post" onsubmit="return validarVuelo()">
                         <input type="hidden" name="formulario" value="vuelo">
@@ -162,7 +162,7 @@ echo "<script type='text/javascript'>alert('$mensaje');</script>";
                 </div>    
             </div>
             <div class="col-md-6">
-                <div class="container mt-5 card p-4">
+                <div class="container mt-5 card p-4 bg-dark-subtle">
                     <h2 class="text-center">Registro de Hoteles</h2>
                     <form action="procesar_hotel.php" method="post" onsubmit="return validarHotel()">
                         <input type="hidden" name="formulario" value="hotel">
