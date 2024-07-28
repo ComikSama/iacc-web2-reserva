@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+#results-container {
+    display: none;
+    padding: 0 20px;
+}
+
+#results-list li {
+    border: none;
+    border-bottom: 1px solid;
+}
+.oferta-especial {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4CAF50; 
+    margin-bottom: 10px;
+}

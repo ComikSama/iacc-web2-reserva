@@ -1,0 +1,98 @@
+[
+    {
+        "nombre": "Hotel Maravilla",
+        "precio": "$200.000",
+        "disponible": true,
+        "destino": "paris",
+        "fecha": "01/07/2024",
+        "imagen": "img/paris.jpg"
+    },
+    {
+        "nombre": "Resort Paraíso",
+        "precio": "$350.000",
+        "disponible": false,
+        "destino": "maldivas",
+        "fecha": "10/07/2024",
+        "imagen": "img/maldivas.jpg"
+    },
+    {
+        "nombre": "Hostal Encanto",
+        "precio": "$80.000",
+        "disponible": true,
+        "destino": "barcelona",
+        "fecha": "05/07/2024",
+        "imagen": "img/barcelona.jpg"
+    },
+    {
+        "nombre": "Hotel Plaza",
+        "precio": "$150.000",
+        "disponible": true,
+        "destino": "madrid",
+        "fecha": "07/07/2024",
+        "imagen": "img/madrid.jpg"
+    },
+    {
+        "nombre": "Villa Romántica",
+        "precio": "$180.000",
+        "disponible": true,
+        "destino": "paris",
+        "fecha": "15/07/2024",
+        "imagen": "img/paris2.jpg"
+    },
+    {
+        "nombre": "Eco Resort",
+        "precio": "$300.000",
+        "disponible": true,
+        "destino": "maldivas",
+        "fecha": "20/07/2024",
+        "imagen": "img/maldivas2.jpg"
+    },
+    {
+        "nombre": "Pensión Sol",
+        "precio": "$50.000",
+        "disponible": true,
+        "destino": "barcelona",
+        "fecha": "25/07/2024",
+        "imagen": "img/barcelona2.jpg"
+    },
+    {
+        "nombre": "Hotel Real",
+        "precio": "$130.000",
+        "disponible": true,
+        "destino": "madrid",
+        "fecha": "30/07/2024",
+        "imagen": "img/madrid2.webp"
+    },
+    {
+        "nombre": "Palace Luxury",
+        "precio": "$500.000",
+        "disponible": true,
+        "destino": "paris",
+        "fecha": "05/08/2024",
+        "imagen": "img/paris3.webp"
+    },
+    {
+        "nombre": "Beach Resort",
+        "precio": "$400.000",
+        "disponible": false,
+        "destino": "maldivas",
+        "fecha": "10/08/2024",
+        "imagen": "img/maldivas3.jpg"
+    },
+    {
+        "nombre": "Hostel Happy",
+        "precio": "$70.000",
+        "disponible": true,
+        "destino": "barcelona",
+        "fecha": "15/08/2024",
+        "imagen": "img/barcelona3.jpg"
+    },
+    {
+        "nombre": "Boutique Hotel",
+        "precio": "$160.000",
+        "disponible": true,
+        "destino": "madrid",
+        "fecha": "20/08/2024",
+        "imagen": "img/madrid3.jpg"
+    }
+]
